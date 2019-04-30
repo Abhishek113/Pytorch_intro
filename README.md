@@ -11,4 +11,6 @@ In this repository I explained
 6. CUDA Support
 7. Autograd with example and usage
 
-Link: https://colab.research.google.com/drive/18J4reDvRtdxq8H2sSy5KU_RB5Zuy2oxB#scrollTo=5Zsqe6skqg45
+Link: https://colab.research.google.com/drive/18J4reDvRtdxq8H2sSy5KU_RB5Zuy2oxB
+
+or you can vie the file in repository.
